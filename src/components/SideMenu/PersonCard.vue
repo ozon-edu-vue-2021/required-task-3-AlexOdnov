@@ -8,6 +8,7 @@
       class="person__email"
       :href="`mailto:${person.email}`"
       aria-label="Электронная почта"
+      target="_blank"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
